@@ -41,7 +41,7 @@ Welcome to MyShup! This is a simple ecommerce web application built using HTML, 
 ## Installation
 
 1. Clone this repository: `git clone https://github.com/mustaphatimi/shopApp-React`
-2. Navigate to the project directory: `cd myshup`
+2. Navigate to the project directory: `cd shopApp-React`
 
 ## Usage
 
