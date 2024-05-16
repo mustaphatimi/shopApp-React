@@ -64,5 +64,5 @@ Welcome to MyShup! This is a simple ecommerce web application built using HTML, 
 
 Visit the website: [MyShup](https://myshup.netlify.app/)
 
-Developed by [Nweke Chidi](https://github.com/NwekeGoddy)
+Developed by [Vincent Mustapha](https://github.com/mustaphatimi_)
 
